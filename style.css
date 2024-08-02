@@ -1,0 +1,11 @@
+:root{
+    --preto:#000000;
+    --front-size: 'Poppin', 'sans serif';
+    --branco:#FFFFFF;
+}
+
+body{
+    bacgrond-color: var(--preto);
+    color: white; 
+    front-size:(--front-size)
+}
