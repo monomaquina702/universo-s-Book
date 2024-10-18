@@ -1,0 +1,33 @@
+.carrossel_titulo{
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.swiper-button-prev,
+.swiper-button-nexxt{
+     display. none;
+} 
+
+.swiper-pagination{pwpajean
+    position: initial; /*coloca a primeira imagem adicionada na tag img como inicio do carrossel*/
+}
+
+
+.card {
+    background: var(--braco);
+    box-shadow: 0px 4px 4x rgba(0, 0, 0, 0.25);/*função que adiciona uma sombra em uma "CAIXA"*/
+    border-radius: 2px;
+
+
+}
+
+.card

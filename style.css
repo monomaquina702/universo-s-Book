@@ -1,11 +1,15 @@
+@import url("styles/header.css")
+
+
 :root{
-    --preto:#000000;
-    --front-size: 'Poppin', 'sans serif';
-    --branco:#FFFFFF;
+    --preto: #000000;
+    --fonte-principal: 'Poppins', 'sans serif';
+    --branco: #FFFFFFF;
+    --azul-degrandee: linear-gradient(97.S4deg, #002f52 35.49%, #326589)
+    --azul:# 002f52;
+    --laranja: #eb9b00;
 }
 
-body{
-    bacgrond-color: var(--preto);
-    color: white; 
-    front-size:(--front-size)
+body {
+    0-0=
 }
